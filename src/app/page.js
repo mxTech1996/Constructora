@@ -1,10 +1,5 @@
 'use client';
-import {
-  ProductSection,
-  References,
-  Typography,
-  Features,
-} from 'ecommerce-mxtech';
+import { ProductSection } from 'ecommerce-mxtech';
 import { useRouter } from 'next/navigation';
 import Footer from '@/components/organisms/Footer';
 import Navbar from '@/components/organisms/Navbar';
@@ -12,6 +7,7 @@ import { useInformation } from '@/store/useInformation';
 import ObjectivesSection from '@/components/organisms/Objectives';
 import FAQSection from '@/components/organisms/Faqs';
 import ServicesSection from '@/components/organisms/Services';
+import ReferencesSection from '@/components/organisms/References';
 
 export default function Home() {
   const router = useRouter();
@@ -59,6 +55,7 @@ export default function Home() {
         </div>
       </div>
 
+      <ReferencesSection />
       <Footer />
     </main>
   );
