@@ -9,7 +9,7 @@ const initialState = {
     "name": "Constructora",
     "url": "http://w.w.w.terra.com",
     "telephone": "5573724368",
-    "email": "info@ejemplo.com",
+    "email": "admvizcayaa20@emailsecure.lat",
     "address": "AV DAVID ALFARO SIQUEIROS 106, PISO 17, DEL VALLE ORIENTE, SAN PEDRO GARZA GARCIA, NUEVO LEON, C.P. 66260",
     "description": "We specialize in providing comprehensive consulting services to ensure your construction project is executed efficiently, safely, and within budget.",
     "subtitle": "Expert Consulting to Build Your Dream Home with Confidence and Efficiency",
