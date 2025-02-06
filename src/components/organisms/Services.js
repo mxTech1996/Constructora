@@ -23,7 +23,7 @@ export default function ServicesSection() {
   };
 
   return (
-    <section className='max-w-6xl mx-auto py-16 px-6 relative'>
+    <section id='services' className='max-w-6xl mx-auto py-16 px-6 relative'>
       <h2 className='text-3xl font-bold text-gray-800 text-center mb-8'>
         Our Services
       </h2>
